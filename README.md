@@ -3,6 +3,8 @@
 ## Description
 The purpose of this application is to be able to track your incoming and outgoing funds progressively, so you don't need a network connection to do so. 
 
+To utilize this app, simply put in a title for the name of the transaction and enter the amount in the "transaction amount" field. Then, depending on if the transaction was outgoing or incoming, select the appropriate "+Add Funds" or "-Subtract Funds" button. 
+
 ![Budget Tracker](budgetTracker.png)
 
 ## Usage
